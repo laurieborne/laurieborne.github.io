@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2018-05-13 20:20:05 -0700
+---
+
+Welcome to my new website.
+
+I am student a Vancouver College of Massage Therapy.
+
+You can [check my availabilty and book an
+appointment](https://vcmtofua.janeapp.com/#/staff_member/564/treatment/1).
